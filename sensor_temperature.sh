@@ -3,7 +3,7 @@
 # Name: sensor_temperature.sh
 # Description: Check Temperature and Humidity on Rpi
 # Script Maintainer: CHERIF Malik
-#
+# License: GPLv3
 # Last Updated: August 5th 2015
 ##################################################
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
